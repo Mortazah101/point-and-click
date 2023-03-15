@@ -1,0 +1,1 @@
+document.getElementById("Main").appendChild(document.TEXT_NODE("Hello mother"));
